@@ -2,39 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on WTF</title>
-    <link>http://localhost:1313/khale.github.io/tags/</link>
+    <link>https://kyle-hale.github.io/khale.github.io/tags/</link>
     <description>Recent content in Tags on WTF</description>
     <generator>Hugo</generator>
     <language>en</language>
     <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
     <lastBuildDate>Sat, 18 May 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/khale.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://kyle-hale.github.io/khale.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Pedro</title>
-      <link>http://localhost:1313/khale.github.io/tags/pedro/</link>
+      <link>https://kyle-hale.github.io/khale.github.io/tags/pedro/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/khale.github.io/tags/pedro/</guid>
+      <guid>https://kyle-hale.github.io/khale.github.io/tags/pedro/</guid>
       <description></description>
     </item>
     <item>
       <title>Post</title>
-      <link>http://localhost:1313/khale.github.io/tags/post/</link>
+      <link>https://kyle-hale.github.io/khale.github.io/tags/post/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/khale.github.io/tags/post/</guid>
+      <guid>https://kyle-hale.github.io/khale.github.io/tags/post/</guid>
       <description></description>
     </item>
     <item>
       <title>Shit</title>
-      <link>http://localhost:1313/khale.github.io/tags/shit/</link>
+      <link>https://kyle-hale.github.io/khale.github.io/tags/shit/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/khale.github.io/tags/shit/</guid>
+      <guid>https://kyle-hale.github.io/khale.github.io/tags/shit/</guid>
       <description></description>
     </item>
     <item>
       <title>Shitpost</title>
-      <link>http://localhost:1313/khale.github.io/tags/shitpost/</link>
+      <link>https://kyle-hale.github.io/khale.github.io/tags/shitpost/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/khale.github.io/tags/shitpost/</guid>
+      <guid>https://kyle-hale.github.io/khale.github.io/tags/shitpost/</guid>
       <description></description>
     </item>
   </channel>
