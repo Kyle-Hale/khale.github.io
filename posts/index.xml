@@ -1,0 +1,30 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Posts on WTF</title>
+        <link>https://khale.github.io/posts/</link>
+        <description>Recent content in Posts on WTF</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en</language>
+        <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
+        <lastBuildDate>Sat, 18 May 2024 00:00:00 +0000</lastBuildDate>
+        <atom:link href="https://khale.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+        
+        <item>
+            <title>Init Post</title>
+            <link>https://khale.github.io/posts/2024/05/init-post/</link>
+            <pubDate>Sat, 18 May 2024 00:00:00 +0000</pubDate>
+            
+            <guid>https://khale.github.io/posts/2024/05/init-post/</guid>
+            <description>This is a test post
+Its a shit post There is no actual content here just leave:
+vibe := WatchContent(Remi.Speak) </description>
+            <content type="html"><![CDATA[<p>This is a test <a href="https://i.pinimg.com/474x/1b/76/c3/1b76c3c445b4a6b8f143969aef50a4e5.jpg">post</a></p>
+<h2 id="its-a-shit-post">Its a shit post</h2>
+<p>There is no actual content here just leave:</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-GO" data-lang="GO"><span style="display:flex;"><span><span style="color:#a6e22e">vibe</span> <span style="color:#f92672">:=</span> <span style="color:#a6e22e">WatchContent</span>(<span style="color:#a6e22e">Remi</span>.<span style="color:#a6e22e">Speak</span>)
+</span></span></code></pre></div><p><img alt="Alt Text" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmozd3NxZ2F0MmJpdG80ZDlwdXNhemFoNnZzNWt4dmoyaXYzcWc3MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tHIRLHtNwxpjIFqPdV/giphy.gif"></p>
+]]></content>
+        </item>
+        
+    </channel>
+</rss>
